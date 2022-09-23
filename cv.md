@@ -4,4 +4,4 @@
 4. From programming languages I have worked in: C++, C#, Python and am currently delving into JavaScript. I also tried to do something on Unity. From frameworks, I knew a little about React
 6. There is no experience in Junior Development
 7. I have an incomplete higher education, this course is the first for me
-8. At the university I was in the strongest group in English
+8. At the university I was in the strongest group in English, i think I know English within normal limits
